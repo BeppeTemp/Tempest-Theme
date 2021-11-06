@@ -1,8 +1,8 @@
 {
     "name": "tempest-theme",
     "displayName": "Tempest-Theme",
-    "description": "Black and yellow, like the storm",
-    "version": "0.0.1",
+    "description": "A little prettier, a little darker.",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -20,6 +20,7 @@
     },
     "publisher": "BeppeTemp",
     "repository": {
-        "url": ""
-    }
+        "url": "https://github.com/BeppeTemp/Tempest-Theme"
+    },
+    "icon": "src/icon/icon.jpeg"
 }
