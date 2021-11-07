@@ -4,4 +4,4 @@ Tempest-Theme is a simple theme for visual studio code, the concept is to take t
 
 ## Preview
 
-![alt text](src/preview.png)
+![alt text](https://i.ibb.co/YNSM67m/preview.png)
