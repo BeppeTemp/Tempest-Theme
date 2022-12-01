@@ -2,7 +2,7 @@
     "name": "tempest-theme",
     "displayName": "Tempest-Theme",
     "description": "A little prettier, a little darker.",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "engines": {
         "vscode": "^1.62.0"
     },
